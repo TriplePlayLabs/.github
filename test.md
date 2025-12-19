@@ -80,6 +80,7 @@ DUTO is a comprehensive AI-powered content creation platform that unifies visual
 ### Technology Stack
 
 ```mermaid
+
 graph TB
     subgraph Frontend["Frontend Layer"]
         React[React 18]
